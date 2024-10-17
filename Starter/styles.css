@@ -42,6 +42,7 @@ a:hover{
 }
 img{
     height: 200px;
+    border-radius: 10px;
 }
 .wrapper{
     border-radius: 20px;
